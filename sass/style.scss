@@ -7,8 +7,13 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #F14E95 !default;
-$brand-secondary: #118DF0 !default; 
+$brand-primary: #4b6974 !default;
+$brand-secondary: #cba135 !default; 
+
+// blue: #b9c9d6
+// blue/grey: #4b6974
+// green: #859b91  rgb(133, 155, 145)
+// gold: #cba135
 
 $brand-white: #fff;
 $brand-black: #000;
@@ -22,8 +27,6 @@ $brand-bg-color: $brand-white;
 
 $input-border-focus:  $brand-primary !default;
 $form-group-margin-bottom:       30px !default;
-
-
 
 // Mixin
 @mixin translateX($translatex) {
